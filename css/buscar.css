@@ -1,0 +1,21 @@
+#mostrar
+{
+	width:200px;
+	display:none;
+	float:left;
+	 margin-right:30px;
+	border-left:solid 1px #dedede;
+	border-right:solid 1px #dedede;
+	border-bottom:solid 1px #dedede;
+	overflow:hidden;
+	
+}
+.display_box
+{
+	
+	padding:4px; 
+	border-top:solid 1px #dedede; 
+	font-size:18px; 
+	height:25px;
+	background: #f5f5f5;
+}
